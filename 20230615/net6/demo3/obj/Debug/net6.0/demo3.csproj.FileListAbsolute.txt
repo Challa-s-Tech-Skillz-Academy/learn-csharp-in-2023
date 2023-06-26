@@ -1,0 +1,16 @@
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\bin\Debug\net6.0\demo3.exe
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\bin\Debug\net6.0\demo3.deps.json
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\bin\Debug\net6.0\demo3.runtimeconfig.json
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\bin\Debug\net6.0\demo3.dll
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\bin\Debug\net6.0\demo3.pdb
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.csproj.AssemblyReference.cache
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.AssemblyInfoInputs.cache
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.AssemblyInfo.cs
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.csproj.CoreCompileInputs.cache
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.sourcelink.json
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.dll
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\refint\demo3.dll
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.pdb
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\demo3.genruntimeconfig.cache
+C:\TechSkillzAcademy\learn-csharp-in-2023\20230615\net6\demo3\obj\Debug\net6.0\ref\demo3.dll
