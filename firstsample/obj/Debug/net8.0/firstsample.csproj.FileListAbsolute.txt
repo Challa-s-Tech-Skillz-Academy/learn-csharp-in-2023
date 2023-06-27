@@ -1,0 +1,16 @@
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\bin\Debug\net8.0\firstsample.exe
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\bin\Debug\net8.0\firstsample.deps.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\bin\Debug\net8.0\firstsample.runtimeconfig.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\bin\Debug\net8.0\firstsample.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\bin\Debug\net8.0\firstsample.pdb
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.csproj.AssemblyReference.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.AssemblyInfoInputs.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.AssemblyInfo.cs
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.csproj.CoreCompileInputs.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.sourcelink.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\refint\firstsample.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.pdb
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\firstsample.genruntimeconfig.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\firstsample\obj\Debug\net8.0\ref\firstsample.dll
