@@ -1,0 +1,16 @@
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\bin\Debug\net8.0\A2ProgramStructureDemo.exe
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\bin\Debug\net8.0\A2ProgramStructureDemo.deps.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\bin\Debug\net8.0\A2ProgramStructureDemo.runtimeconfig.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\bin\Debug\net8.0\A2ProgramStructureDemo.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\bin\Debug\net8.0\A2ProgramStructureDemo.pdb
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.csproj.AssemblyReference.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.AssemblyInfoInputs.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.AssemblyInfo.cs
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.csproj.CoreCompileInputs.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.sourcelink.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\refint\A2ProgramStructureDemo.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.pdb
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\A2ProgramStructureDemo.genruntimeconfig.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2ProgramStructureDemo\obj\Debug\net8.0\ref\A2ProgramStructureDemo.dll

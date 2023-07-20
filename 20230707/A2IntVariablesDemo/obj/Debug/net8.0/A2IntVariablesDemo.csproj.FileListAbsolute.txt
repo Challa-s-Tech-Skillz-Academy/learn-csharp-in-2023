@@ -1,0 +1,16 @@
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\bin\Debug\net8.0\A2IntVariablesDemo.exe
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\bin\Debug\net8.0\A2IntVariablesDemo.deps.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\bin\Debug\net8.0\A2IntVariablesDemo.runtimeconfig.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\bin\Debug\net8.0\A2IntVariablesDemo.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\bin\Debug\net8.0\A2IntVariablesDemo.pdb
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.csproj.AssemblyReference.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.AssemblyInfoInputs.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.AssemblyInfo.cs
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.csproj.CoreCompileInputs.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.sourcelink.json
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\refint\A2IntVariablesDemo.dll
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.pdb
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\A2IntVariablesDemo.genruntimeconfig.cache
+C:\Challa-Ravikiran\TechSkillzAcademy\learn-csharp-in-2023_12\20230707\A2IntVariablesDemo\obj\Debug\net8.0\ref\A2IntVariablesDemo.dll
